@@ -1,0 +1,6 @@
+{
+  "name": "Event Management API System",
+  "description": "An interactive, production-ready workspace and playground for an Event Management Backend API, complete with automated FastAPI code generation, PostgreSQL schema design, live-mock swagger testing, and an AI schema generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
